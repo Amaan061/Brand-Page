@@ -1,8 +1,22 @@
-# React + Vite
+# Brand Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple brand page built using **React**. It features a navigation bar, a hero section, and a mock login functionality. The project is styled using **CSS** and **Flexbox** for layout.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Responsive Navigation Bar**: Includes links to "Menu", "Location", "About", and "Contact" along with a "Login" button.
+- **Hero Section**: Promotes the brand with a tagline and call-to-action buttons. It also showcases the availability of products on major platforms like Flipkart and Amazon.
+- **Mock Login Page**: Conditional rendering of login page for user authentication simulation.
+
+## Technologies Used
+
+- **React**: For building the UI components.
+- **CSS**: For styling the components.
+- **Flexbox**: For layout and alignment.
+- **React Router (Optional)**: For managing routes if you want to implement navigation between pages.
+
+## Setup
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/brand-page.git
